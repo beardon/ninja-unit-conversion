@@ -9,10 +9,10 @@
   "author": {
     "name": "Beardon Services",
     "email": "benaw@beardon.com",
-    "url": "https://github.com/aaronbean"
+    "url": "https://github.com/beardon"
   },
   "homepage": "https://github.com/beardon/ninja-unit-conversion",
-  "main": "./lib/conversions.js",
+  "main": "./lib/UnitConverter.js",
   "scripts": {
   },
   "license": "ISC"
