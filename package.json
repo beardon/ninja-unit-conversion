@@ -13,7 +13,5 @@
   },
   "homepage": "https://github.com/beardon/ninja-unit-conversion",
   "main": "./lib/UnitConverter.js",
-  "scripts": {
-  },
   "license": "ISC"
 }
