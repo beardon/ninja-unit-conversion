@@ -1,0 +1,19 @@
+{
+  "name": "ninja-unit-conversion",
+  "description": "Agricultural unit conversions",
+  "version": "0.0.1",
+  "keywords": [
+    "api",
+    "terravion"
+  ],
+  "author": {
+    "name": "Beardon Services",
+    "email": "benaw@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "homepage": "https://github.com/beardon/ninja-unit-conversion",
+  "main": "./lib/conversions.js",
+  "scripts": {
+  },
+  "license": "ISC"
+}
