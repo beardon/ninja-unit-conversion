@@ -1,10 +1,9 @@
 {
   "name": "ninja-unit-conversion",
   "description": "Agricultural unit conversions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
-    "api",
-    "terravion"
+    "unit-conversion"
   ],
   "author": {
     "name": "Beardon Services",
