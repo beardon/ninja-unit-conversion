@@ -81,6 +81,14 @@ Usage:
 
 let kilogramsPerHectare = unitConverter.poundsPerAcreToKilogramsPerHectare(poundsPerAcre);
 ```
+### kilogramsPerHectarToPoundsPerAcre 
+```
+Converts input in kilos per hectare to pounds per acre.
+
+Usage:
+
+let poundsPerAcre = unitConverter.kilogramsPerHectareToPoundsPerAcre(kilogramsPerHectare);
+```
 ### pricePerBushelToPricePerPound
 ```
 Converts input in price per bushel to price per pound.
@@ -88,6 +96,22 @@ Converts input in price per bushel to price per pound.
 Usage:
 
 let pricePerPound = unitConverter.pricePerBushelToPricePerPound(pricePerBushel, bushelCropConversionFactor);
+```
+### pricePerPoundToPricePerBushel
+```
+Converts input in price per pound to price per bushel.
+
+Usage:
+
+let pricePerBushel = unitConverter.pricePerPoundToPricePerBushel(pricePerPound, bushelCropConversionFactor);
+```
+### pricePerKilogramToPricePerBushel
+```
+Converts input in price per kilogram to price per bushel.
+
+Usage:
+
+let pricePerBushel = unitConverter.pricePerKilogramToPricePerBushel(pricePerKilogram, bushelCropConversionFactor);
 ```
 ### pricePerBushelToPricePerKilogram
 ```
@@ -104,6 +128,14 @@ Converts input in price per pound to price per kilogram.
 Usage:
 
 let pricePerKilogram = unitConverter.pricePerPoundToPricePerKilogram(pricePerPound);
+```
+### pricePerKilogramToPricePerPound 
+```
+Converts input in price per kilogram to price per pound.
+
+Usage:
+
+let pricePerPound = unitConverter.pricePerKilogramToPricePerPound(pricePerKilogram);
 ```
 ### squareMetersToAcres 
 ```
